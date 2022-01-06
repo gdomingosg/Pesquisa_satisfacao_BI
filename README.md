@@ -18,6 +18,9 @@ A partir dos dados dispostos neste dashboard e da aplicação dos filtros e segm
 * Saque da poupança é a operação mais realizada pelos clientes;
 * Saque da poupança também é a operação com o menor tempo médio de espera e com a maior classificação média, 4,08;
 * Pagamento de contas é a operação com o maior tempo médio de espera e não possui nenhuma classificação 5;
+* Em todas as cidades, exceto Fortaleza, a operação de pagamento de contas é a mais demorada.
 
 Dessa forma, é possivel indicar que uma boa decisão a ser tomada seria alocar mais colaboradores para realizar a tarefa de pagametno de contas.
 Ainda, é possivel indicar que seja realizado um estudo nos setores do banco para verificar se existe uma tendência de que em um mês X alguma operação seja mais realizada que outras, alocando mais funcionários para esta, diminuindo assim o tempo de espera.
+
+
