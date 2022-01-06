@@ -2,7 +2,7 @@
 
 Neste repositório está inserido o dashboard gerado a partir dos dados de uma pesquisa de satisfação realizada por um banco a respeito de tempo de espera dos clientes nas operações bancárias realizadas.
 
-Na etapa de tratamento de dados foram encontrados valores de tempo de espera negativos para algumas operações, como não existiam explicações para esses valores, os mesmo foram excluídos do conjunto.
+Na etapa de tratamento de dados foram encontrados valores de tempo de espera negativos para algumas operações, como não existiam explicações para esses valores, os mesmo foram excluídos do conjunto. Também foi adicionado uma coluna de região no conjunto de dados, com o intuito de adicionar mais uma hierarquia na filtragem.
 
 O intuito desse projeto era aplicar os conhecimentos obtidos com o livro [Storytelling com dados](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681/ref=asc_df_8550804681/?tag=googleshopp00-20&linkCode=df0&hvadid=379805395634&hvpos=&hvnetw=g&hvrand=3738173834884265652&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102244&hvtargid=pla-812777209198&psc=1) e apresentar as informações necessárias para que um gestor conseguisse entender os setores do banco que precisavam de maior agilidade e em quais localidades isto era necessário.
 
